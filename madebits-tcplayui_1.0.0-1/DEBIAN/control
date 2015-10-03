@@ -1,0 +1,10 @@
+Package: madebits-tcplayui
+Version: 1.0.0
+Architecture: all
+Maintainer: madebits
+Section: admin
+Priority: optional
+Depends: bindfs (>= 1.12.3), zenity (>= 3.8.0), tcplay (>= 1.1-1)
+Homepage: http://madebits.com
+Description: TcPlay Mount Container UI
+ http://madebits.com

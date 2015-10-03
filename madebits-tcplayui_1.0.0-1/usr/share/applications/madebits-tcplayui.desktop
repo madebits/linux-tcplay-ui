@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=TcPlay Mount
+Exec=/opt/madebits-tcplayui_1.0.0/tcplayui.sh
+Icon=/usr/share/icons/hicolor/48x48/apps/mb-tcplayui.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=GNOME;System;GTK;Security;
+
