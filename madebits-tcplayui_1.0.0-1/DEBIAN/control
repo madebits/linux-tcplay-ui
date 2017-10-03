@@ -5,6 +5,6 @@ Maintainer: madebits
 Section: admin
 Priority: optional
 Depends: bindfs (>= 1.12.3), zenity (>= 3.8.0), tcplay (>= 1.1-1)
-Homepage: http://madebits.com
+Homepage: http://madebits
 Description: TcPlay Mount Container UI
- http://madebits.com
+ http://madebits
